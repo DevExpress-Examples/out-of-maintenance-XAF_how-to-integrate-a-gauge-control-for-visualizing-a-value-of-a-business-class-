@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<DetailView ID="GaugeDemoObject_DetailView">
+			<Items>
+				<PropertyEditor PropertyName="EnumProperty" PropertyEditorType="GaugePropertyEditor.Win.StateIndicatorGaugePropertyEditor" />
+				<PropertyEditor PropertyName="FloatProperty" PropertyEditorType="GaugePropertyEditor.Win.CircularGaugePropertyEditor" />
+				<PropertyEditor PropertyName="IntProperty" PropertyEditorType="GaugePropertyEditor.Win.LinearGaugePropertyEditor" />
+				<PropertyEditor PropertyName="StringProperty" PropertyEditorType="GaugePropertyEditor.Win.DigitalGaugePropertyEditor" />
+			</Items>
+		</DetailView>
+	</Views>
+</Application>
