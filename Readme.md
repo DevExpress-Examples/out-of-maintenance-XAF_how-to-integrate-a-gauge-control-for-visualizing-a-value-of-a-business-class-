@@ -1,3 +1,17 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CircularGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/CircularGaugePropertyEditor.cs) (VB: [CircularGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Web/CircularGaugePropertyEditor.vb))
+* [DigitalGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/DigitalGaugePropertyEditor.cs) (VB: [DigitalGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Web/DigitalGaugePropertyEditor.vb))
+* [LinearGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/LinearGaugePropertyEditor.cs) (VB: [LinearGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Web/LinearGaugePropertyEditor.vb))
+* [StateIndicatorGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/StateIndicatorGaugePropertyEditor.cs) (VB: [StateIndicatorGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Web/StateIndicatorGaugePropertyEditor.vb))
+* [WebGaugePropertyEditorBase.cs](./CS/GaugePropertyEditor.Web/WebGaugePropertyEditorBase.cs) (VB: [WebGaugePropertyEditorBase.vb](./VB/GaugePropertyEditor.Web/WebGaugePropertyEditorBase.vb))
+* [CircularGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/CircularGaugePropertyEditor.cs) (VB: [CircularGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Win/CircularGaugePropertyEditor.vb))
+* [DigitalGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/DigitalGaugePropertyEditor.cs) (VB: [DigitalGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Win/DigitalGaugePropertyEditor.vb))
+* [LinearGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/LinearGaugePropertyEditor.cs) (VB: [LinearGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Win/LinearGaugePropertyEditor.vb))
+* [StateIndicatorGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/StateIndicatorGaugePropertyEditor.cs) (VB: [StateIndicatorGaugePropertyEditor.vb](./VB/GaugePropertyEditor.Win/StateIndicatorGaugePropertyEditor.vb))
+* [WinGaugePropertyEditorBase.cs](./CS/GaugePropertyEditor.Win/WinGaugePropertyEditorBase.cs) (VB: [WinGaugePropertyEditorBase.vb](./VB/GaugePropertyEditor.Win/WinGaugePropertyEditorBase.vb))
+<!-- default file list end -->
 # How to integrate a gauge control for visualizing a value of a business class property
 
 
