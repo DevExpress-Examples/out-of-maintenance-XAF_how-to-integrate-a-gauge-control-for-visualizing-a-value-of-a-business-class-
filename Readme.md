@@ -1,3 +1,17 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CircularGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/CircularGaugePropertyEditor.cs)
+* [DigitalGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/DigitalGaugePropertyEditor.cs)
+* [LinearGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/LinearGaugePropertyEditor.cs)
+* [StateIndicatorGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Web/StateIndicatorGaugePropertyEditor.cs)
+* [WebGaugePropertyEditorBase.cs](./CS/GaugePropertyEditor.Web/WebGaugePropertyEditorBase.cs)
+* [CircularGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/CircularGaugePropertyEditor.cs)
+* [DigitalGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/DigitalGaugePropertyEditor.cs)
+* [LinearGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/LinearGaugePropertyEditor.cs)
+* [StateIndicatorGaugePropertyEditor.cs](./CS/GaugePropertyEditor.Win/StateIndicatorGaugePropertyEditor.cs)
+* [WinGaugePropertyEditorBase.cs](./CS/GaugePropertyEditor.Win/WinGaugePropertyEditorBase.cs)
+<!-- default file list end -->
 # How to integrate a gauge control for visualizing a value of a business class property
 
 
